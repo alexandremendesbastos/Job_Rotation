@@ -1,0 +1,2 @@
+Para dois veículos se cruzarem, devem estar na mesma localização da rodovia, mesmo que paralelamente.
+Logo, não é necessário qualquer cálculo para constatar que ambos estarão à mesma distância da cidade de Ribeirão Preto, no exato momento do cruzamento.
